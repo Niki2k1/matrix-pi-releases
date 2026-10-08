@@ -1,0 +1,12 @@
+{
+  "version": "v0.6.1",
+  "notes": "**Full Changelog**: https://github.com/Niki2k1/matrix-pi/compare/v0.6.0...v0.6.1",
+  "publishedAt": "2026-10-08T15:47:54Z",
+  "assets": {
+    "linux_arm64": {
+      "path": "v0.6.1/matrix-pi_linux_arm64",
+      "sha256": "8e64add499c61396cb1365787899cd4a8788ef7c80f3f42df60d042ba8fdc316",
+      "size": 11144456
+    }
+  }
+}

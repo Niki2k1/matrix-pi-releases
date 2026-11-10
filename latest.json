@@ -1,0 +1,12 @@
+{
+  "version": "v0.8.0",
+  "notes": "## What's Changed\n* Value chips in the composer, static tables and badges by @Niki2k1 in https://github.com/Niki2k1/matrix-pi/pull/1\n\n## New Contributors\n* @Niki2k1 made their first contribution in https://github.com/Niki2k1/matrix-pi/pull/1\n\n**Full Changelog**: https://github.com/Niki2k1/matrix-pi/compare/v0.7.0...v0.8.0",
+  "publishedAt": "2026-11-10T13:48:27Z",
+  "assets": {
+    "linux_arm64": {
+      "path": "v0.8.0/matrix-pi_linux_arm64",
+      "sha256": "c95e3b6855c0b72f681101ba5c49d4aa414feda545d366b48bc62984d0d1ef84",
+      "size": 13118024
+    }
+  }
+}
